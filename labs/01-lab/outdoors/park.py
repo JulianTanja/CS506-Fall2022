@@ -10,5 +10,5 @@ def draw_park():
                 print(" ", end="")           
         print()
 
-draw_park()
+
 
